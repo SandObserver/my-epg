@@ -17,15 +17,6 @@
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
-  <programme start="20260501014500 +0000" stop="20260501023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">گفت‌وگوهای واشنگتن</title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/town-hall-discussions</url>
-  </programme>
-  <programme start="20260501023000 +0000" stop="20260501031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
   <programme start="20260501031500 +0000" stop="20260501033000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
@@ -238,56 +229,118 @@
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
+  <programme start="20260502031500 +0000" stop="20260502033000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
   <programme start="20260502033000 +0000" stop="20260502041500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260502041500 +0000" stop="20260502043000 +0000" channel="iranintl.iitv">
+    <title lang="fa">Chortkeh</title>
     <category lang="en">programme</category>
   </programme>
   <programme start="20260502043000 +0000" stop="20260502050000 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
+  <programme start="20260502050000 +0000" stop="20260502053000 +0000" channel="iranintl.iitv">
+    <title lang="fa">حرف آخر با پوریا زراعتی  </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-last-word</url>
+  </programme>
   <programme start="20260502053000 +0000" stop="20260502061500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260502061500 +0000" stop="20260502063000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
   </programme>
   <programme start="20260502063000 +0000" stop="20260502071500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
+  <programme start="20260502071500 +0000" stop="20260502073000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
   <programme start="20260502073000 +0000" stop="20260502081500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260502081500 +0000" stop="20260502083000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
   </programme>
   <programme start="20260502083000 +0000" stop="20260502091500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
+  <programme start="20260502091500 +0000" stop="20260502093000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
   <programme start="20260502093000 +0000" stop="20260502101500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260502101500 +0000" stop="20260502103000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
   </programme>
   <programme start="20260502103000 +0000" stop="20260502111500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
+  <programme start="20260502111500 +0000" stop="20260502113000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
   <programme start="20260502113000 +0000" stop="20260502120000 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
+  <programme start="20260502120000 +0000" stop="20260502123000 +0000" channel="iranintl.iitv">
+    <title lang="fa">حرف آخر با پوریا زراعتی  </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-last-word</url>
+  </programme>
   <programme start="20260502123000 +0000" stop="20260502130000 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260502130000 +0000" stop="20260502131500 +0000" channel="iranintl.iitv">
+    <title lang="fa">Chortkeh</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260502131500 +0000" stop="20260502133000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
   </programme>
   <programme start="20260502133000 +0000" stop="20260502141500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
+  <programme start="20260502141500 +0000" stop="20260502143000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
   <programme start="20260502143000 +0000" stop="20260502151500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
+  <programme start="20260502151500 +0000" stop="20260502153000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
   <programme start="20260502153000 +0000" stop="20260502161500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260502161500 +0000" stop="20260502163000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
   </programme>
   <programme start="20260502163000 +0000" stop="20260502171500 +0000" channel="iranintl.iitv">
@@ -295,18 +348,35 @@
     <category lang="en">programme</category>
     <url>https://www.iranintl.com/vod/titre-aval</url>
   </programme>
+  <programme start="20260502171500 +0000" stop="20260502173000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
   <programme start="20260502173000 +0000" stop="20260502181500 +0000" channel="iranintl.iitv">
     <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
     <category lang="en">programme</category>
     <url>https://www.iranintl.com/vod/talk-show</url>
   </programme>
+  <programme start="20260502181500 +0000" stop="20260502183000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
   <programme start="20260502183000 +0000" stop="20260502191500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260502191500 +0000" stop="20260502193000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
   </programme>
   <programme start="20260502193000 +0000" stop="20260502200000 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
+  </programme>
+  <programme start="20260502200000 +0000" stop="20260502203000 +0000" channel="iranintl.iitv">
+    <title lang="fa">حرف آخر با پوریا زراعتی  </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-last-word</url>
   </programme>
   <programme start="20260502203000 +0000" stop="20260502210000 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -321,13 +391,27 @@
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
+  <programme start="20260502221500 +0000" stop="20260502223000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
   <programme start="20260502223000 +0000" stop="20260502224500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
+  <programme start="20260502224500 +0000" stop="20260502233000 +0000" channel="iranintl.iitv">
+    <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/talk-show</url>
+  </programme>
   <programme start="20260502233000 +0000" stop="20260502234500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
+  </programme>
+  <programme start="20260502234500 +0000" stop="20260503001500 +0000" channel="iranintl.iitv">
+    <title lang="fa">حرف آخر با پوریا زراعتی  </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-last-word</url>
   </programme>
   <programme start="20260503003000 +0000" stop="20260503011500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
